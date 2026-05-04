@@ -1,1 +1,2 @@
-# backup-confluence-domain
+# ConfluencePages
+Download Confleunce pages as pdf files via Bash Script.
